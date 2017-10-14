@@ -1,0 +1,5 @@
+﻿  AI.cpp
+c:\project\main\mario\ai.h(23): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\project\main\mario\ai.h(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Mario.vcxproj -> C:\Project\main\Debug\Mario.exe
+  Mario.vcxproj -> C:\Project\main\Debug\Mario.pdb (Partial PDB)
